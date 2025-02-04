@@ -20,43 +20,43 @@
     {
       "title": "Lab 2: Environment Setup",
       "description": "How to provision the workshop environment and connect to it",
-      "filename": "../../remote-desktop/remote-desktop.md"
-    },
-    {
-      "title": "Lab 3: Set up the resources",
       "filename": "../../create-environment/create-environment.md"
     },
     {
-      "title": "Lab 4: Modify a WKT UI Project and Creation of Model file",
-      "filename": "../../create-model/create-model.md"
+      "title": "Lab 3: Create a Helidon project",
+      "filename": "../../create-project/create-project.md"
     },
     {
-      "title": "Lab 5: Creation of Auxiliary Image and Push it into Oracle Container Image Registry",
-      "filename": "../../create-image/create-image.md"
+      "title": "Lab 4: Add Frontend UI to the Application",
+      "filename": "../../add-frontend/add-frontend.md"
     },
     {
-      "title": "Lab 6: Deploy WebLogic Operator to WebLogic for OKE Stack [WLS for OKE]",
+      "title": "Lab 5: Deploy Coherence Operator to OKE Cluster",
       "filename": "../../deploy-operator/deploy-operator.md"
     },
     {
-      "title": "Lab 7: Deploy WebLogic Domain to WebLogic for OKE Stack [WLS for OKE]",
-      "filename": "../../deploy-domain/deploy-domain.md"
+      "title": "Lab 6: Deploy Todo-list application to OKE Cluster",
+      "filename": "../../deploy-todo/deploy-todo.md"
     },
     {
-      "title": "Lab 8: Deploy Ingress Controller to WebLogic for OKE Stack [WLS for OKE]",
-      "filename": "../../deploy-ingress/deploy-ingress.md"
+      "title": "Lab 7: Configure Grafana and Prometheus",
+      "filename": "../../configure-observability/configure-observability.md"
     },
     {
-      "title": "Lab 9: Test the Application Deployment",
-      "filename": "../../access-application/access-application.md"
+      "title": "Lab 8: Monitor Todo-list Application",
+      "filename": "../../monitor-todo/monitor-todo.md"
     },
     {
-      "title": "Lab 10: Scale a WebLogic Cluster (Optional)",
-      "filename": "../../scale-cluster/scale-cluster.md"
+      "title": "Lab 9: Configuring data persistence across restarts",
+      "filename": "../../configure-persistence/configure-persistence.md"
     },
     {
-      "title": "Lab 11: Make a upgrade in WebLogic Server Version (Optional)",
-      "filename": "../../upgrade-version/upgrade-version.md"
+      "title": "Lab 10: Configure Open Telemetry",
+      "filename": "../../configure-telemetry/configure-telemetry.md"
+    },
+    {
+      "title": "Lab 11: Monitor application using Telemetry",
+      "filename": "../../monitor-tracing/monitor-tracing.md"
     },
     {
       "title": "Need Help?",

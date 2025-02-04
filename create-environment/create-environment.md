@@ -20,7 +20,9 @@ In this lab, you will:
 * You should have a text editor.
 
 
-## Task 1: Creation of an Repository
+## Task 1: Creation of an Oracle Kubernetes Cluster
+
+## Task 2: Creation of an Repository
 
 In this task, you creates a public repository. In lab 5, we will push Auxiliary Image into this repository.
 
@@ -42,7 +44,7 @@ In this task, you creates a public repository. In lab 5, we will push Auxiliary 
     ![Note Tenancy NameSpace](images/tenancy-namespace.png)
 
 
-## Task 2: Accepting the license for WebLogic Server Images 
+## Task 3: Creation of an Authentication token 
 
 In this task, we accept the license agreement for WebLogic Server images resides in Oracle Container Registry. As in Lab 5, we will use WebLogic Server 12.2.1.3.0 image as our Primary Image. So, to get access to WebLogic Server Images, we accept the license agreement.
 
