@@ -18,45 +18,25 @@
       "filename": "../../prepare-setup/prepare-setup.md"
     },
     {
-      "title": "Lab 2: Environment Setup",
+      "title": "Lab 2: Create a Helidon project",
       "description": "How to provision the workshop environment and connect to it",
-      "filename": "../../create-environment/create-environment.md"
+      "filename": "../../create-project/create-project.md"
     },
     {
-      "title": "Lab 3: Create a Helidon project",
-      "filename": "../../create-project/create-project.md"
+      "title": "Lab 3: Develop Backend for the Application",
+      "filename": "../../develop-backend/develop-backend.md"
     },
     {
       "title": "Lab 4: Add Frontend UI to the Application",
       "filename": "../../add-frontend/add-frontend.md"
     },
     {
-      "title": "Lab 5: Deploy Coherence Operator to OKE Cluster",
-      "filename": "../../deploy-operator/deploy-operator.md"
-    },
-    {
-      "title": "Lab 6: Deploy Todo-list application to OKE Cluster",
+      "title": "Lab 5: Deploy Todo-list application to OKE Cluster",
       "filename": "../../deploy-todo/deploy-todo.md"
     },
     {
-      "title": "Lab 7: Configure Grafana and Prometheus",
-      "filename": "../../configure-observability/configure-observability.md"
-    },
-    {
-      "title": "Lab 8: Monitor Todo-list Application",
+      "title": "Lab 6: Monitor Todo-list Application",
       "filename": "../../monitor-todo/monitor-todo.md"
-    },
-    {
-      "title": "Lab 9: Configuring data persistence across restarts",
-      "filename": "../../configure-persistence/configure-persistence.md"
-    },
-    {
-      "title": "Lab 10: Configure Open Telemetry",
-      "filename": "../../configure-telemetry/configure-telemetry.md"
-    },
-    {
-      "title": "Lab 11: Monitor application using Telemetry",
-      "filename": "../../monitor-tracing/monitor-tracing.md"
     },
     {
       "title": "Need Help?",

@@ -23,7 +23,7 @@ This lab assumes you have:
 
 2.  Save in your downloads folder.
 
-## Task 2: Create Stack: Compute + Networking
+## Task 2: Create Stack: OKE 
 
 1. Identify the ORM stack zip file downloaded in **Task 1: Download Oracle Resource Manager (ORM) stack zip file**.
 
@@ -58,9 +58,16 @@ This lab assumes you have:
     ![run apply](images/run-apply.png)
 
 
+
+## Task 3: Create Oracle Container Image Registry
+
+
+## Task 4: Generate an authentication token
+
+
+
 You may now proceed to the next lab.
 
-## Acknowledgements
 * **Author** -  Ankit Pandey
 * **Contributors** - Maciej Gruszka, Sid Joshi
-* **Last Updated By/Date** - Ankit Pandey, October 2024
+* **Last Updated By/Date** - Ankit Pandey, February 2024
